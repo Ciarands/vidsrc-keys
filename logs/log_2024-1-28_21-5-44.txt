@@ -1,0 +1,18 @@
+--------------------------------------------
+  Created log file: log_2024-1-28_21-5-44
+--------------------------------------------
+
+[21:5:44] LOG | Updated logfile.txt to './logs/log_2024-1-28_21-5-44.txt'
+[21:5:45] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-1-28_21-5-44.private.txt')
+[21:5:45] LOG | Fetching sources...
+[21:5:46] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-1-28_21-5-44.private.txt')
+[21:5:46] LOG | Retrieving playback url...
+[21:5:46] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-1-28_21-5-44.private.txt')
+[21:5:46] LOG | Sucessfully retrieved playback url!
+[21:5:47] LOG | Request for embed.js intercepted
+[21:5:47] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-1-28_21-5-44.private.txt')
+[21:5:47] ERROR | Could not retrieve keys, patchEmbedJs failed?
+[21:5:48] LOG | Extracted keys sucessfully!
+[21:5:48] LOG | Key 1: '3LLoJsprE9qDL9ro' - Key 2: '5W1k0b4Qim1hkfwz'
+[21:5:48] LOG | Bumped version to '65b6c05a'
+[21:5:48] WARN | Killing process...
