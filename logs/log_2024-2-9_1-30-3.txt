@@ -1,0 +1,119 @@
+--------------------------------------------
+  Created log file: log_2024-2-9_1-30-3
+--------------------------------------------
+
+[1:30:3] LOG | Updated logfile.txt to './logs/log_2024-2-9_1-30-3.txt'
+[1:30:4] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:30:4] LOG | Fetching sources...
+[1:30:4] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:30:4] LOG | Retrieving playback url...
+[1:30:4] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:30:4] LOG | Sucessfully retrieved playback url!
+[1:30:5] LOG | Request for embed.js intercepted
+[1:30:5] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:30:5] WARN | Same version detected!
+[1:30:5] LOG | Routine for 'main' sleeping for '2.5' second(s)...
+[1:30:8] LOG | Continuing...
+[1:30:21] WARN | Requests limit for 'embed' reached! (10)
+[1:30:23] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:30:23] LOG | Fetching sources...
+[1:30:23] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:30:23] LOG | Retrieving playback url...
+[1:30:23] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:30:23] LOG | Sucessfully retrieved playback url!
+[1:30:37] WARN | Requests limit for 'embed' reached! (10)
+[1:30:39] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:30:39] LOG | Fetching sources...
+[1:30:39] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:30:39] LOG | Retrieving playback url...
+[1:30:39] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:30:39] LOG | Sucessfully retrieved playback url!
+[1:30:49] LOG | Request for embed.js intercepted
+[1:30:49] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:30:49] WARN | Same version detected!
+[1:30:49] LOG | Routine for 'main' sleeping for '2.5' second(s)...
+[1:30:51] LOG | Continuing...
+[1:30:56] WARN | Requests limit for 'embed' reached! (10)
+[1:30:57] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:30:57] LOG | Fetching sources...
+[1:30:57] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:30:57] LOG | Retrieving playback url...
+[1:30:57] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:30:57] LOG | Sucessfully retrieved playback url!
+[1:31:12] WARN | Requests limit for 'embed' reached! (10)
+[1:31:13] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:31:13] LOG | Fetching sources...
+[1:31:13] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:31:13] LOG | Retrieving playback url...
+[1:31:14] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:31:14] LOG | Sucessfully retrieved playback url!
+[1:31:28] WARN | Requests limit for 'embed' reached! (10)
+[1:31:29] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:31:29] LOG | Fetching sources...
+[1:31:29] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:31:29] LOG | Retrieving playback url...
+[1:31:30] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:31:30] LOG | Sucessfully retrieved playback url!
+[1:31:44] WARN | Requests limit for 'embed' reached! (10)
+[1:31:45] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:31:45] LOG | Fetching sources...
+[1:31:45] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:31:45] LOG | Retrieving playback url...
+[1:31:46] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:31:46] LOG | Sucessfully retrieved playback url!
+[1:32:0] WARN | Requests limit for 'embed' reached! (10)
+[1:32:1] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:32:1] LOG | Fetching sources...
+[1:32:1] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:32:1] LOG | Retrieving playback url...
+[1:32:1] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:32:1] LOG | Sucessfully retrieved playback url!
+[1:32:16] WARN | Requests limit for 'embed' reached! (10)
+[1:32:17] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:32:17] LOG | Fetching sources...
+[1:32:18] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:32:18] LOG | Retrieving playback url...
+[1:32:18] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:32:18] LOG | Sucessfully retrieved playback url!
+[1:32:27] LOG | Request for embed.js intercepted
+[1:32:27] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:32:28] WARN | Same version detected!
+[1:32:28] LOG | Routine for 'main' sleeping for '2.5' second(s)...
+[1:32:30] LOG | Continuing...
+[1:32:34] WARN | Requests limit for 'embed' reached! (10)
+[1:32:36] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:32:36] LOG | Fetching sources...
+[1:32:36] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:32:36] LOG | Retrieving playback url...
+[1:32:36] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:32:36] LOG | Sucessfully retrieved playback url!
+[1:32:50] WARN | Requests limit for 'embed' reached! (10)
+[1:32:52] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:32:52] LOG | Fetching sources...
+[1:32:52] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:32:52] LOG | Retrieving playback url...
+[1:32:52] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:32:52] LOG | Sucessfully retrieved playback url!
+[1:33:6] WARN | Requests limit for 'embed' reached! (10)
+[1:33:8] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:33:8] LOG | Fetching sources...
+[1:33:8] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:33:8] LOG | Retrieving playback url...
+[1:33:8] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:33:8] LOG | Sucessfully retrieved playback url!
+[1:33:22] WARN | Requests limit for 'embed' reached! (10)
+[1:33:24] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:33:24] LOG | Fetching sources...
+[1:33:24] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:33:24] LOG | Retrieving playback url...
+[1:33:24] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:33:24] LOG | Sucessfully retrieved playback url!
+[1:33:39] WARN | Requests limit for 'embed' reached! (10)
+[1:33:40] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:33:40] LOG | Fetching sources...
+[1:33:40] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:33:40] LOG | Retrieving playback url...
+[1:33:40] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-9_1-30-3.private.txt')
+[1:33:40] LOG | Sucessfully retrieved playback url!
+[1:33:44] ERROR | Requests limit for 'main' reached! (2000)
+[1:33:44] WARN | Killing process...
