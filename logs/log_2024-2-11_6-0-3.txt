@@ -1,0 +1,28 @@
+--------------------------------------------
+  Created log file: log_2024-2-11_6-0-3
+--------------------------------------------
+
+[6:0:3] LOG | Updated logfile.txt to './logs/log_2024-2-11_6-0-3.txt'
+[6:0:4] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-11_6-0-3.private.txt')
+[6:0:4] LOG | Fetching sources...
+[6:0:5] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-11_6-0-3.private.txt')
+[6:0:5] LOG | Retrieving playback url...
+[6:0:5] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-11_6-0-3.private.txt')
+[6:0:5] LOG | Sucessfully retrieved playback url!
+[6:0:6] LOG | Request for embed.js intercepted
+[6:0:6] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-11_6-0-3.private.txt')
+[6:0:6] WARN | Same version detected!
+[6:0:6] LOG | Routine for 'main' sleeping for '2.5' second(s)...
+[6:0:8] LOG | Continuing...
+[6:0:10] LOG | Request for embed.js intercepted
+[6:0:10] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-11_6-0-3.private.txt')
+[6:0:10] WARN | Same version detected!
+[6:0:10] LOG | Routine for 'main' sleeping for '2.5' second(s)...
+[6:0:12] LOG | Continuing...
+[6:0:26] LOG | Request for embed.js intercepted
+[6:0:26] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-11_6-0-3.private.txt')
+[6:0:26] ERROR | Could not retrieve keys, patchEmbedJs failed?
+[6:0:26] LOG | Extracted keys sucessfully!
+[6:0:26] LOG | Key 1: 'o692RDNAomqjj5XM' - Key 2: 'ObqWX3bumygMxVsE'
+[6:0:26] LOG | Bumped version to '65c8626b'
+[6:0:26] WARN | Killing process...
