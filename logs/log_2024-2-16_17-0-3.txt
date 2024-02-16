@@ -1,0 +1,23 @@
+--------------------------------------------
+  Created log file: log_2024-2-16_17-0-3
+--------------------------------------------
+
+[17:0:3] LOG | Updated logfile.txt to './logs/log_2024-2-16_17-0-3.txt'
+[17:0:4] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-16_17-0-3.private.txt')
+[17:0:4] LOG | Fetching sources...
+[17:0:5] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-16_17-0-3.private.txt')
+[17:0:5] LOG | Retrieving playback url...
+[17:0:5] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-16_17-0-3.private.txt')
+[17:0:5] LOG | Sucessfully retrieved playback url!
+[17:0:6] LOG | Request for embed.js intercepted
+[17:0:6] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-16_17-0-3.private.txt')
+[17:0:6] WARN | Same version detected!
+[17:0:6] LOG | Routine for 'main' sleeping for '2.5' second(s)...
+[17:0:8] LOG | Continuing...
+[17:0:11] LOG | Request for embed.js intercepted
+[17:0:11] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-16_17-0-3.private.txt')
+[17:0:11] ERROR | Could not retrieve keys, patchEmbedJs failed?
+[17:0:12] LOG | Extracted keys sucessfully!
+[17:0:12] LOG | Key 1: 'fdcpKuNZqmxUchJt' - Key 2: 'vY6Fg6gEawZ2ukjK'
+[17:0:12] LOG | Bumped version to '65cf949a'
+[17:0:12] WARN | Killing process...
