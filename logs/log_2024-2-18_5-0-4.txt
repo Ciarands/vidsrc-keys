@@ -1,0 +1,25 @@
+--------------------------------------------
+  Created log file: log_2024-2-18_5-0-4
+--------------------------------------------
+
+[5:0:4] LOG | Updated logfile.txt to './logs/log_2024-2-18_5-0-4.txt'
+[5:0:5] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-18_5-0-4.private.txt')
+[5:0:5] LOG | Fetching sources...
+[5:0:5] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-18_5-0-4.private.txt')
+[5:0:5] LOG | Retrieving playback url...
+[5:0:5] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-18_5-0-4.private.txt')
+[5:0:5] LOG | Sucessfully retrieved playback url!
+[5:0:6] LOG | Request for embed.js intercepted
+[5:0:6] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-18_5-0-4.private.txt')
+[5:0:6] WARN | Same version detected!
+[5:0:6] LOG | Routine for 'main' sleeping for '2.5' second(s)...
+[5:0:9] LOG | Continuing...
+[5:0:12] LOG | Request for embed.js intercepted
+[5:0:12] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-18_5-0-4.private.txt')
+[5:0:12] ERROR | Could not retrieve keys, patchEmbedJs failed?
+[5:0:12] ERROR | Could not retrieve keys, patchEmbedJs failed?
+[5:0:12] ERROR | Could not retrieve keys, patchEmbedJs failed?
+[5:0:12] LOG | Extracted keys sucessfully!
+[5:0:12] LOG | Key 1: 'vpYhKCNnCxATgLxQ' - Key 2: 'E0mPLguwMxLhGgJV'
+[5:0:12] LOG | Bumped version to '65d18eda'
+[5:0:12] WARN | Killing process...
