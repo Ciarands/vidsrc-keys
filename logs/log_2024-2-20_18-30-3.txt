@@ -1,0 +1,18 @@
+--------------------------------------------
+  Created log file: log_2024-2-20_18-30-3
+--------------------------------------------
+
+[18:30:3] LOG | Updated logfile.txt to './logs/log_2024-2-20_18-30-3.txt'
+[18:30:4] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-20_18-30-3.private.txt')
+[18:30:4] LOG | Fetching sources...
+[18:30:4] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-20_18-30-3.private.txt')
+[18:30:4] LOG | Retrieving playback url...
+[18:30:4] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-20_18-30-3.private.txt')
+[18:30:4] LOG | Sucessfully retrieved playback url!
+[18:30:5] LOG | Request for embed.js intercepted
+[18:30:5] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-20_18-30-3.private.txt')
+[18:30:5] WARN | Same version detected!
+[18:30:5] LOG | Routine for 'main' sleeping for '2.5' second(s)...
+[18:30:8] LOG | Continuing...
+[18:35:3] ERROR | Process timeout reached! (300000 ms)
+[18:35:3] WARN | Killing process...
