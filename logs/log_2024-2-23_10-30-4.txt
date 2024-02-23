@@ -1,0 +1,14 @@
+--------------------------------------------
+  Created log file: log_2024-2-23_10-30-4
+--------------------------------------------
+
+[10:30:4] LOG | Updated logfile.txt to './logs/log_2024-2-23_10-30-4.txt'
+[10:30:4] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-23_10-30-4.private.txt')
+[10:30:4] LOG | Fetching sources...
+[10:30:5] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-23_10-30-4.private.txt')
+[10:30:5] LOG | Retrieving playback url...
+[10:30:5] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-23_10-30-4.private.txt')
+[10:30:5] LOG | Sucessfully retrieved playback url!
+[10:30:6] CRITICAL | Surpressed due to logging rules. (see './logs/log_2024-2-23_10-30-4.private.txt')
+[10:35:4] ERROR | Process timeout reached! (300000 ms)
+[10:35:4] WARN | Killing process...
