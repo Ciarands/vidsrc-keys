@@ -1,0 +1,22 @@
+--------------------------------------------
+  Created log file: log_2024-2-24_2-10-4
+--------------------------------------------
+
+[2:10:4] LOG | Updated logfile.txt to './logs/log_2024-2-24_2-10-4.txt'
+[2:10:5] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-24_2-10-4.private.txt')
+[2:10:5] LOG | Fetching sources...
+[2:10:5] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-24_2-10-4.private.txt')
+[2:10:5] LOG | Retrieving playback url...
+[2:10:5] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-24_2-10-4.private.txt')
+[2:10:5] LOG | Sucessfully retrieved playback url!
+[2:10:6] LOG | Request for embed.js intercepted
+[2:10:6] HIDDEN | Surpressed due to logging rules. (see './logs/log_2024-2-24_2-10-4.private.txt')
+[2:10:6] ERROR | Could not retrieve keys, patchEmbedJs failed?
+[2:10:6] ERROR | Could not retrieve keys, patchEmbedJs failed?
+[2:10:6] LOG | Extracted keys sucessfully!
+[2:10:6] LOG | Extracted keys sucessfully!
+[2:10:6] LOG | Key 1: 'zO5pyuujIDT2Qsr3' - Key 2: 'XeDHLoukXRULtLWh'
+[2:10:6] LOG | Key 1: 'zO5pyuujIDT2Qsr3' - Key 2: 'XeDHLoukXRULtLWh'
+[2:10:6] LOG | Bumped version to '65d94daa'
+[2:10:6] LOG | Bumped version to '65d94daa'
+[2:10:6] WARN | Killing process...
