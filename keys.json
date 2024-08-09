@@ -1,1 +1,12 @@
-{"encrypt":["bZSQ97kGOREZeGik","NeBk5CElH19ucfBU","Z7YMUOoLEjfNqPAt"],"decrypt":["wnRQe3OZ1vMcD1ML","eO74cTKZayUWH8x5"]}
+{
+    "embed.js": ["8Qy3mlM2kod80XIK", "BgKVSrzpH2Enosgm", "9jXDYBZUcTcTZveM"],
+    "generic": {
+        "cinezone.to": ["Ex3tc7qjUz7YlWpQ", "8z5Ag5wgagfsOuhz"],
+        "watchseriesx.to": ["Ex3tc7qjUz7YlWpQ", "8z5Ag5wgagfsOuhz"]
+    },
+    "anime": {
+        "anix.to": ["T78s2WjTc7hSIZZR", "ctpAbOz5u7S6OMkx"],
+        "animesuge.to": ["T78s2WjTc7hSIZZR", "ctpAbOz5u7S6OMkx"],
+        "aniwave.to": ["T78s2WjTc7hSIZZR", "ctpAbOz5u7S6OMkx"]
+    }
+}
