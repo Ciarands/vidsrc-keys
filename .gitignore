@@ -1,5 +1,3 @@
-*.js
-*.ts
-package-lock.json
-package.json
-node_modules
+src/
+*.sh
+*.bat
